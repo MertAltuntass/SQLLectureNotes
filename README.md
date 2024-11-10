@@ -1,0 +1,2 @@
+# SQLLectureNotes
+ Mert ALTUNTAŞ SQLLectureNotes 
